@@ -1,9 +1,5 @@
 # ICS 2026 秋季 Lab2: BombLab 实验报告
 
-- 姓名：〔填〕　学号：〔填〕
-- 环境：WSL2 Ubuntu〔填〕x86_64，gcc〔填〕，gdb〔填〕，binutils〔填〕
-- 仓库：〔填 GitHub 链接〕
-
 ## 1. 实验概述
 
 本实验在没有源码的情况下，用 objdump 静态反汇编和 GDB 动态调试分析一个 64 位 Linux 程序的六个关卡与 Honor 关，恢复每关“challenge → 口令”的计算关系，并在 `defuser.c` 中实现求解函数。
